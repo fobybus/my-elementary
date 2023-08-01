@@ -7,7 +7,7 @@ interactive way.
 [download compiled version here](https://fobybus.github.io/my-elementary/public/download.html)
 ## structure 
 ### java source files
-java source files are in default package source file in this case 
+java source files are in default location, this case 
 ```
 src/main/java
 ```
