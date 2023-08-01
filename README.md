@@ -1,8 +1,9 @@
 # My Elementary children android application 
-Android studio project implemnted in native android api and java for educating a children in 
+Android studio project implemented in native android api and java for educating a children in 
 interactive way. 
-*********
 * you can download the apk file below
+<img src="public/capture.jpg" alt="screen capture" height="300px" width="300px">
+
 [download compiled version here](https://fobybus.github.io/my-elementary/public/download.html)
 ## structure 
 ### java source files
@@ -27,4 +28,4 @@ git clone https://github.com/fobybus/my-elementary.git
 ## author 
 fobybus(firaol w.)
 
-**please contribute to the project*:prayer:*
+**please contribute to the project** 🙏
