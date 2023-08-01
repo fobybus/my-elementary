@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyElementary</string>
+    <string name="option_game">Game </string>
+    <string name="option_maths">Maths</string>
+    <string name="option_songs">Songs</string>
+    <string name="option_about">about</string>
+</resources>
