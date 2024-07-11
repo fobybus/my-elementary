@@ -25,7 +25,6 @@ src/main/java
 ```
 git clone https://github.com/fobybus/my-elementary.git
 ```
-## author 
 fobybus
 
 **please contribute to the project** 🙏
